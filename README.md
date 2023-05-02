@@ -1,12 +1,5 @@
 # cakitubatai
 
-<p align="center">
-    <img alt="kakitubatai icon" src="assets/profile.png" width="300">
-</p>
-<p align="center">
-    My favorite painting
-</p>
-
 ## Profile
 ### Engineer / Designer
 - From Kumamoto, Japan
